@@ -1,0 +1,7 @@
+---
+title: "Untitled"
+output: html_document
+---
+#Prueba  1
+
+Como utilizar GitHub 
